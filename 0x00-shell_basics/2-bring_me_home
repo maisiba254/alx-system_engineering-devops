@@ -1,2 +1,2 @@
-#!/bi/bash
-cd / cd home
+#!/bin/bash
+cd /home/
